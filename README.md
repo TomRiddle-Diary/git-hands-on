@@ -6,3 +6,6 @@
 　- Keiji Uchida
 - born
  - Japan
+
+- live
+ - Nagasaki
